@@ -1,0 +1,5 @@
+{
+  "name": "Catecismo AI Search",
+  "description": "Um motor de busca inteligente para o Catecismo da Igreja Católica, utilizando IA para encontrar parágrafos e temas relevantes.",
+  "requestFramePermissions": []
+}
